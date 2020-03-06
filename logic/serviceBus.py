@@ -66,9 +66,3 @@ class ServiceBus:
 
         return elements
 
-
-def test_serviceBus():
-    pass
-
-
-test_serviceBus()
