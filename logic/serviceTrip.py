@@ -115,9 +115,3 @@ class ServiceTrip:
 
         return finalList
 
-
-def test_serviceTrip():
-    pass
-
-
-test_serviceTrip()
